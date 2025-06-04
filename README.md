@@ -1,6 +1,6 @@
 # Monitor de Umidade do Solo com Arduino Uno
 
-## 🚀 **BAIXE O CÓDIGO AQUI:** [monitor_umidade_solo.ino](link_para_seu_repositorio/monitor_umidade_solo.ino) (Substitua com o link real do seu código!)
+## 🚀 **BAIXE O CÓDIGO AQUI:** [monitor_umidade_solo.ino](https://github.com/GabGarritano/sensor_umidade/blob/main/code.ino) 
 
 ---
 
